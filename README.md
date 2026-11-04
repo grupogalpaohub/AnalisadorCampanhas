@@ -6,8 +6,8 @@ Ferramenta de página única que lê o CSV de campanhas da **Meta Ads** ou do **
 
 | Ambiente | Branch | Endereço |
 |---|---|---|
-| Produção | `main` | https://grupogalpaohub.github.io/AnalisadorCampanhas_Dark_v1/ |
-| Desenvolvimento | `dev` | https://grupogalpaohub.github.io/AnalisadorCampanhas_Dark_v1/dev/ |
+| Produção | `main` | https://grupogalpaohub.github.io/AnalisadorCampanhas/ |
+| Desenvolvimento | `dev` | https://grupogalpaohub.github.io/AnalisadorCampanhas/dev/ |
 
 O deploy é automático (GitHub Actions, `.github/workflows/pages.yml`) a cada push em `main` ou `dev`.
 
